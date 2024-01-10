@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdabulais
+- 👋 Hi, I’m Abulais
 - 👀 I’m Frontend web developer
 - 🌱 I’m seeking for an opportunity to use my knowledge and skills
 - 💞️ I’m a hardworking person and very dedicated to my goals
